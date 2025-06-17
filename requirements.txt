@@ -1,0 +1,14 @@
+polars
+pandas
+numpy
+scipy
+python-docx
+pypdf
+Pillow
+pytesseract
+easyocr
+streamlit
+python-dotenv
+together
+matplotlib
+plotly
